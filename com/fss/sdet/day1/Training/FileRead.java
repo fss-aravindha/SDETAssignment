@@ -1,4 +1,4 @@
-package com.fss.sdet;
+package com.fss.sdet.day1.Training;
 
 import java.io.BufferedReader;
 import java.io.File;

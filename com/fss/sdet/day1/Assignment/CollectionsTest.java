@@ -10,7 +10,7 @@ public class CollectionsTest {
 
     public static void main(String[] args) {
 
-        // Array List
+        // Array List`
         ArrayList arrayList = new ArrayList<Integer>();
         arrayList.add(10);
         arrayList.add(20);
